@@ -1,0 +1,30 @@
+#myInput{
+  width:400px;
+  height:40px;
+}
+#topStuff{
+  display:flex;
+  padding: 10px;
+  padding-left:10px;
+
+}
+#buttonOne{
+  background-color:steelblue;
+  margin-left:15px;
+}
+
+body{
+  font-family:Arial, Helvetica, sans-serif;
+}
+.something{
+  margin-top: auto;
+  margin-bottom: auto;
+  justify-content: left;
+  display: flex;
+}
+
+.login{
+  margin-top: auto;
+  margin-bottom: auto;
+  padding-left: 50px;
+}
